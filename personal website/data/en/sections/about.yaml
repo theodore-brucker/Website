@@ -1,0 +1,91 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Security Analyst
+company:
+  name: Systems Engineering
+  url: "https://www.systemsengineering.com"
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+
+# a summary about you
+summary: "Security Analyst and Software Developer with a Bachelor's in computer science from the University of Maine"
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "theodore.brucker@maine.edu"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/theodore-brucker"
+
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/theobrucker/"
+
+# - name: Twitter
+#   icon: "fab fa-twitter"
+#   url: "#"
+
+# - name: Facebook
+#   icon: "fab fa-facebook"
+#   url: "#"
+
+# - name: Mastadon
+#   icon: "fab fa-mastodon"
+#   url: "#"
+#   rel: "me noopener"
+
+# - name: ResearchGate
+#   icon: "fab fa-researchgate"
+#   url: "https://www.researchgate.net/profile/john-doe"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "My Resume"
+  url: "/images/Theodore_Brucker_Resume.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: CompTIA Security+
+  badge: "/images/SecurityPlus Logo Certified CE.png"
+
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 95
+  color: blue
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 85
+  color: green
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 95
+  color: orange
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

@@ -1,0 +1,16 @@
+# some information about you
+name: "Theodore Brucker"
+nickname: "Theo"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "/images/TBrucker Profile.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "theodore.brucker@maine.edu"
+  github: "https://github.com/theodore-brucker"
+  linkedin: "theobrucker"
+
+summary:
+  - I am a Security Professional
+  - I am a Developer
+  - I enjoy Machine Learning

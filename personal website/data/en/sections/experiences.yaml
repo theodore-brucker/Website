@@ -1,0 +1,55 @@
+section:
+  name: Experiences # Titre de la section (par défaut: "" )
+  id: experiences # url id/slug of section *Required*
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+experiences:
+- company:
+    name: Systems Engineering.
+    url: "https://www.systemsengineering.com"
+    location: Portland, Maine
+    logo: /images/experiences/company.png
+    darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: Systems Engineering provides managed IT and security services to various regional clients
+  positions:
+  - designation: Security Operations Center Technician
+    start: August 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Maintain logging infrastructure to ensure steady event collection
+    - Engage with clients about improving security posture through active risk management
+    - Identify, escalate, and respond to security incidents as part of the on-call rotation
+
+  - designation: Network Engineering Intern
+    start: May 2023
+    end: August 2022
+    responsibilities:
+    - Worked with various IT and security solutioning teams
+    - Client facing engagements both remote and in person
+    - Experience configuring Fortigates as well active directory for both Azure and on-prem environments
+
+# - company:
+#   name: Privacy Engineering and Regulatory Compliance Lab
+#   url: "https://www.sepidehghanavati.com/research"
+#   location: Orono, Maine
+#   logo: assets/images/logos/logo-light.jpg
+#   darkLogo: assets/images/logos/logo-light.jpg #(optional), Can optionally show a different logo for dark theme
+#   # company overview
+#   overview: Information Privacy research lab at the University of Maine led by Dr. Sepideh Ghanavati
+# positions:
+# - designation: Undergradute Research Assistant
+#   start: August 2021
+#   # don't provide end date if you are currently working there. It will be replaced by "Present"
+#   # end: Dec 2020
+#   # give some points about what was your responsibilities at the company.
+#   responsibilities:
+#   - Coauthored and traveled to present research at the IEEE RE conference in Hannover, Germany in 2023
+#   - Assisted in graduate research projects and literature reviews
+#   - Evaluated software developers struggles with current privacy policy such as the GDPR

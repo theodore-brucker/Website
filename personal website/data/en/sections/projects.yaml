@@ -1,0 +1,50 @@
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+projects:
+- name: Anomaly Detection
+  role: Creator
+  timeline: "January 2024 - Present"
+  repo: https://github.com/theodore-brucker/COS-475-Project
+  summary: Deep learning approach for classifying network traffic as normal vs anomalous
+  tags: ["machine learning", "python", "security"]
+
+- name: Website
+  role: Creator
+  timeline: "March 2024 - Present"
+  repo: https://github.com/theodore-brucker/Website
+  # url: ""
+  summary: The website that you are currently visiting
+  tags: ["hobby", "web"]
+
+- name: Website - old
+  role: Creator
+  timeline: "March 2023 - December 2023"
+  repo: https://github.com/theodore-brucker/blogsite
+  # url: ""
+  summary: Deprecated self-hosted website
+  tags: ["hobby", "web", "hosting"]
+
+- name: Eduplay
+  role: Contributor
+  timeline: "September 2022 - April 2023"
+  repo: https://github.com/2022-autumn-cos-420/TeamA-Group-HW1
+  # url: ""
+  summary: Study application created for COS 420 Intro to Software Development
+  tags: ["academic", "react", "node"]

@@ -11,10 +11,10 @@ skills:
   summary: "Experience with vulnerability management and SIEM for incident prevention, detection, and response"
 
 - name: Software Development
-  summary: "Experience building and deploying applications in multiple languages including JavaScript, Python, and C"
+  summary: "Experience building and deploying applications in multiple languages including Python, Go, and JavaScript"
 
 - name: Scripting
   summary: "Experience writing powershell and bash scripts for network security and infrastructure management"
 
 - name: Machine Learning
-  summary: "Experience developing, tuning, and deploying machine learning architectures towards network anomaly detection"
+  summary: "Experience developing, tuning, and deploying machine learning architectures"

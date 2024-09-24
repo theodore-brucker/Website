@@ -1,8 +1,8 @@
 # some information about you
 name: "Theodore Brucker"
-nickname: "Theo"
+nickname: "Theo Brucker"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: ""
 image: "/images/TBrucker Profile.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
@@ -11,6 +11,6 @@ contactInfo:
   linkedin: "theobrucker"
 
 summary:
-  - I am a Security Professional
-  - I am a Developer
-  - I enjoy Machine Learning
+  - Security Operation Center Analyst
+  - Machine Learning Developer
+  - Security Researcher

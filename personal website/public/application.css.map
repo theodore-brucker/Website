@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "application.css",
-	"sourceRoot": "C:/Users/theob/Code/Netlify/Website/personal website",
+	"sourceRoot": "C:/Users/theob/Code/Netlify/Website/Theo Brucker",
 	"sources": [
 		"themes/toha/assets/styles/application.template.scss",
 		"node_modules/bootstrap/scss/bootstrap.scss",

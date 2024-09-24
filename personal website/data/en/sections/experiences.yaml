@@ -23,12 +23,12 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Maintain logging infrastructure to ensure steady event collection
-    - Engage with clients about improving security posture through active risk management
-    - Identify, escalate, and respond to security incidents as part of the on-call rotation
+    - On-call incident response
+    - Consulting clients to efficiently improve security posture
+    - Automating the deployment of secure configurations and other processes
 
   - designation: Network Engineering Intern
-    start: May 2023
+    start: May 2022
     end: August 2022
     responsibilities:
     - Worked with various IT and security solutioning teams

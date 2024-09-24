@@ -18,9 +18,16 @@ buttons:
   filter: "hobby"
 
 projects:
-- name: Anomaly Detection
+- name: Cove Security 
   role: Creator
   timeline: "January 2024 - Present"
+  repo: https://github.com/theodore-brucker/CoveSecurity
+  summary: Full stack NIDS leveraging deep learning to detect network intrusions
+  tags: ["hobby", "machine learning", "security", "detection engineering"]
+
+- name: Anomaly Detection
+  role: Creator
+  timeline: "January 2024 - May 2024"
   repo: https://github.com/theodore-brucker/COS-475-Project
   summary: Deep learning approach for classifying network traffic as normal vs anomalous
   tags: ["machine learning", "python", "security"]

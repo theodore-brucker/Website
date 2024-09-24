@@ -30,35 +30,15 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://www.github.com/theodore-brucker"
 
-# - name: Stackoverflow
-#   icon: "fab fa-stack-overflow"
-#   url: "#"
-
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/theobrucker/"
 
-# - name: Twitter
-#   icon: "fab fa-twitter"
-#   url: "#"
-
-# - name: Facebook
-#   icon: "fab fa-facebook"
-#   url: "#"
-
-# - name: Mastadon
-#   icon: "fab fa-mastodon"
-#   url: "#"
-#   rel: "me noopener"
-
-# - name: ResearchGate
-#   icon: "fab fa-researchgate"
-#   url: "https://www.researchgate.net/profile/john-doe"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
+- title: "Resume"
   url: "/images/Theodore_Brucker_Resume.pdf"
 
 # Show your badges
@@ -69,20 +49,20 @@ badges:
   name: CompTIA Security+
   badge: "/images/SecurityPlus Logo Certified CE.png"
 
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 95
-  color: blue
+# - type: soft-skill-indicator
+#   name: Leadership
+#   percentage: 95
+#   color: blue
 
-- type: soft-skill-indicator
-  name: Team Work
-  percentage: 85
-  color: green
+# - type: soft-skill-indicator
+#   name: Team Work
+#   percentage: 85
+#   color: green
 
-- type: soft-skill-indicator
-  name: Hard Working
-  percentage: 95
-  color: orange
+# - type: soft-skill-indicator
+#   name: Hard Working
+#   percentage: 95
+#   color: orange
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
